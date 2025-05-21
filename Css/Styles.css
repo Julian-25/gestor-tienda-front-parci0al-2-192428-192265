@@ -2,32 +2,16 @@
     height: 200px;
     object-fit: cover;
 }
-
 .avatar-img {
     width: 40px;
     height: 40px;
 }
-
 #mainContent {
     display: none;
 }
-
 .section {
     display: none;
 }
-
 .section.active {
     display: block;
-}
-
-.navbar {
-    margin-bottom: 20px;
-}
-
-.dashboard-card {
-    transition: transform 0.3s;
-}
-
-.dashboard-card:hover {
-    transform: translateY(-5px);
 }
